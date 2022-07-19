@@ -1,0 +1,44 @@
+---
+title: "Research Experience"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Education*
+____________________________________________________________
+**Drexel University Dornsife School of Public Health | 2016**  
+Master's in Public Health   
+Concentration: Biostatistics  
+
+**Johns Hopkins University | 2011**  
+Bachelor of Arts in Public Health Studies
+<br><br>
+**Research Experience**
+_______________________________________________
+**Doctoral Fellow | 2020-Present**  
+Project: [HIV-InDI](https://aydenscheim.com/research/indi/)  (Drexel University Dornsife  School of Public Health) 
+ 
+* Conduct factor analysis to validate a newly developed measure of intersectional discrimination.  
+* Identify key HIV-related measures for survey development to assess whether intersectional discrimination impacts HIV-related outcomes.   
+
+**Data Analyst | 2020-2021**  
+Project: [JustHouHS](https://www.american.edu/cas/social-justice-lab/justhouhs.cfm) (American University)  
+
+* Led data analyses to understand how mass incarceration, housing instability and housing policies impact sexual risk. 
+* Translated research findings on how COVID-19 impacts housing and social networks into a report for community members.   
+
+**Project Coordinator | 2016-2020**  
+Project: [MAMAS](https://drexel.edu/news/archive/2016/november/dreams_project) (Drexel University Dornsife  School of Public Health)  
+
+* Coordinated implementation activities for an intervention study aim to increase postpartum school re-enrolment among South African adolescent mothers. 
+* Designed data collection tools and surveys in order to examine program's impact, feasibility and  accessibility.
+* Led  data analyses and co-authored 5 journal articles. 
+* Translated findings and developed presentation for community stakeholders and local researchers to inform existing national programs and future research.
+
+**Research Assistant | 2015-2016**  
+Projects: [SALURBAL](https://drexel.edu/uhc/research/projects/salud-urbana-en-america-latina-salurbal/) and [Home Preservation Initiative](https://drexel.edu/uhc/research/projects/home-preservation-initiative/) (Drexel University Urban Health Collaborative)   
+
+* Developed a database of city-level measures within Latin American countries from a varied of sources for a $12 million grant proposal, which aimed to examine environmental and health effects in Latin American cities. 
+* Coordinated a community-based participatory research project  to examine the influence of housing repairs in West Philadelphia  on  health outcomes in order to inform evidence-based housing policies to support  systematically excluded communities. 

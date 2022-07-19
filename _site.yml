@@ -6,6 +6,8 @@ navbar:
       href: index.html 
 
   right:
+    - text:"Research Experience"
+    - href: experience.html
     - icon: fa-envelope fa-lg
       href: mailto:<lg526@drexel.edu>
     - icon: fa-google fa-lg
