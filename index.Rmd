@@ -10,7 +10,7 @@ I am a PhD student studying Epidemiology at [Drexel University School of Public 
 
 My research interest lies in examining the social and structural factors that drive racial and gender inequalities in HIV risk in sub-Saharan Africa (SSA) and the U.S.  I aim to address knowledge gaps related to systematically excluded populations (e.g., adolescent mothers in SSA, people with criminal legal histories) using  social epidemiology and machine learning methods in order to inform tailored HIV prevention interventions and policies. 
 
-
+<br><br>
 
 ## Recent Publications
 
