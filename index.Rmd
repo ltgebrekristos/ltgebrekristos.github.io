@@ -1,0 +1,26 @@
+---
+title: "About"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I am a PhD student studying Epidemiology at [Drexel University School of Public Health](https://drexel.edu/dornsife/academics/departments/epidemiology-biostatistics/). Prior to starting my doctoral studies, I received my MPH in Biostatistics from Drexel and my BA in Public Health Studies from Johns Hopkins University.
+
+My research interest lies in examining the social and structural factors that drive racial and gender inequalities in HIV risk in sub-Saharan Africa (SSA) and the U.S.  I aim to address knowledge gaps related to systematically excluded populations (e.g., adolescent mothers in SSA, people with criminal legal histories) using  social epidemiology and machine learning methods in order to inform tailored HIV prevention interventions and policies. 
+
+## Recent Publications
+
+Purtle, J., Nelson, K.L., Gebrekristos, L., Lê-Scherban, F., & Gollust, S.E. (2022). [**Partisan differences in the effects of economic evidence and local data on legislator engagement with dissemination materials about behavioral health: a dissemination trial.**](https://link.springer.com/article/10.1186/s13012-022-01214-7) *Implementation science*, 17(1), 1-15.
+
+
+Groves, A.K., Stankard, P., Bowler, S.L., Jamil, M.S., Gebrekristos, L.T., Smith, P.D., ... & Johnson, C. (2022). [**A systematic review and meta-analysis of the evidence for community-based HIV testing on men’s engagement in the HIV care cascade.**](https://journals.sagepub.com/doi/abs/10.1177/09564624221111277) *International journal of STD & AIDS*, 09564624221111277.
+
+Groves, A.K., Gebrekristos, L.T., Smith, P.D., Stoebenau, K., Stoner, M.C., Ameyan, W., & Ezeh, A.C. (2022). [**Adolescent Mothers in Eastern and Southern Africa: An Overlooked and Uniquely Vulnerable Subpopulation in the Fight Against HIV.**](https://journals.sagepub.com/doi/abs/10.1177/09564624221111277) *Journal of Adolescent Health*, 70(6), 895-901.
+
+Groves, A.K., Smith, P.D., Gebrekristos, L.T., Keene, D.E., Rosenberg, A., & Blankenship, K.M. (2022). [**Eviction, intimate partner violence and HIV: Expanding concepts and assessing the pathways through which sexual partnership dynamics impact health.**](https://www.sciencedirect.com/science/article/pii/S0277953622003367) *Social Science & Medicine*, 115030.
+
+Groves, A.K., Gebrekristos, L.T., McNaughton Reyes, L., Moodley, D., Raziano, V., & Maman, S. (2021). [**A mixed-methods study of resilience and return to school among adolescent mothers in South Africa.**](https://www.tandfonline.com/doi/abs/10.1080/17441692.2021.1970208) *Global Public Health*, 1-14.
+
+

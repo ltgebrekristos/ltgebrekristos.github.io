@@ -1,0 +1,16 @@
+name: "Luwam Gebrekristos Website"
+output_dir: "."
+navbar:
+  left:
+    - text: "HOME"
+      href: index.html 
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<lg526@drexel.edu>
+    - icon: fa-google fa-lg
+      href: https://scholar.google.com/citations?user=YySOxn8AAAAJ&hl=en
+output:
+  html_document:
+    theme: yeti
+    css: 'styles.css'
